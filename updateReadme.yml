@@ -1,4 +1,4 @@
-# name: Update feed snippet
+# name: Update README for Qiita/Zenn feed
 
 # on:
 #   workflow_dispatch:
