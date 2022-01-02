@@ -16,6 +16,7 @@
 #       with:
 #         node-version: '14'
 #     - run: npm install -y
+#     - run: npm test
     
 #     - name: Set up test env
 #       run: npm install --save-dev jest
