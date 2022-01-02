@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Landmaster135&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy) -->
 
-# Recent posts
+# Recent osts
 
 <!--[START POSTS LIST]-->
 - ![](img/qiita.png) [あ]()
