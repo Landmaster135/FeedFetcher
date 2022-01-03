@@ -18,6 +18,8 @@ docker ps
 docker cp <container ID>:/usr/app/testtest.md .
 ```
 
-## Memo of Execution
+## Memo of index.mjs
+
+### writeFeedToText()
 
 ![](test/memo_writeFeedToText.jpg)
