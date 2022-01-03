@@ -32,7 +32,10 @@ You can click the Preview link to take a look at your changes.
 )](https://github.com/ryo-ma/github-profile-trophy) -->
 
 # Friends
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+<p>
+  <img height="100.2em" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+</p>
+<!-- ![Python]() -->
 ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
 ![GCP)](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
 ![Processing](https://upload.wikimedia.org/wikipedia/commons/5/59/Processing_Logo_Clipped.svg)
