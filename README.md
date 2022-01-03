@@ -11,7 +11,7 @@ Your README.md file must hold these sentences.
 <!--[START POSTS LIST]-->
 ```
 
-1. End of feed list
+2. End of feed list
 ```md
 <!--[END POSTS LIST]-->
 ```
