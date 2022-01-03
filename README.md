@@ -1,13 +1,16 @@
 # FeedFetcher
 
 ## Test
+
 ### Build Docker
-```batch
+
+```dos
 # DockerイメージをBuildする
 docker build -t my-nodejs-app .
 # Dockerイメージを起動する
 docker run -it --rm --name my-running-app my-nodejs-app
 ```
+
 ### Test with Docker
 
 ```dos
@@ -16,4 +19,5 @@ docker cp <container ID>:/usr/app/testtest.md .
 ```
 
 ## Memo of Execution
+
 ![](test/memo_writeFeedToText.jpg)
