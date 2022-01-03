@@ -11,7 +11,7 @@ Use after you create README.md file.
 Your README.md file must hold these sentences in order.
 
 ## 1. Start of feed list
-```md
+```markdown
 <!--[START POSTS LIST]-->
 ```
 
