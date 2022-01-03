@@ -16,6 +16,6 @@ Your README.md file must hold these sentences in order.
 ```
 
 ## 2. End of feed list
-```md
+```markdown
 <!--[END POSTS LIST]-->
 ```
