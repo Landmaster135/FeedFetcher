@@ -52,3 +52,13 @@ You can click the Preview link to take a look at your changes.
 - ![](img/qiita.png) [え]()
 - ![](img/qiita.png) [で]()
 <!--[END POSTS LIST]-->
+
+# SNS
+
+<p>
+  <a href="https://github.com/Landmaster135" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://twitter.com/penguinbeer1351" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://qiita.com/Landmaster135" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
+  <a href="https://zenn.dev/kinkinbeer135ml" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
+</p>
+
