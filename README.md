@@ -7,7 +7,7 @@
 
 ```dos
 docker ps
-docker cp 521e00d1e0bd:/usr/app/testtest.md .
+docker cp <container ID>:/usr/app/testtest.md .
 ```
 
 ## Memo of Exection
