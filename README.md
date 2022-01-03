@@ -37,10 +37,9 @@ You can click the Preview link to take a look at your changes.
   <img height="60.2em" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img height="60.2em" alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
   <img height="60.2em" alt="Processing" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Processing_Logo_Clipped.svg">
-  <a bgcolor="#EEEEEE">
+  <p bgcolor="#EEEEEE">
     <img height="60.2em" alt="Rhinoceros" src="https://github.com/simple-icons/simple-icons/blob/master/icons/rhinoceros.svg">
-  </a>
-  
+  </p>
 </p>
 
 # Recent Posts
