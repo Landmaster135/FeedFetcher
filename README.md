@@ -6,12 +6,12 @@ Use after you create README.md file.
 
 # Requirement
 Your README.md file must hold these sentences.
-1. Start of feed list
+## 1. Start of feed list
 ```md
 <!--[START POSTS LIST]-->
 ```
 
-2. End of feed list
+## 2. End of feed list
 ```md
 <!--[END POSTS LIST]-->
 ```
