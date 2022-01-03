@@ -1,25 +1,17 @@
 # FeedFetcher
+"FeedFetcher" is a tool for displaying the latest RSS or ATOM feed in README.md, and so on.
+Use after you create README.md file.
 
-## Test
+# Install
 
-### Build Docker
-
-```dos
-# DockerイメージをBuildする
-docker build -t my-nodejs-app .
-# Dockerイメージを起動する
-docker run -it --rm --name my-running-app my-nodejs-app
+# Requirement
+Your README.md file must hold these sentences.
+1. Start of feed list
+```md
+<!--[START POSTS LIST]-->
 ```
 
-### Test with Docker
-
-```dos
-docker ps
-docker cp <container ID>:/usr/app/testtest.md .
+1. End of feed list
+```md
+<!--[END POSTS LIST]-->
 ```
-
-## Memo of index.mjs
-
-### writeFeedToText()
-
-![](test/memo_writeFeedToText.jpg)
