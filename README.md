@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
   <img height="60.2em" alt="AppSheet" src="https://upload.wikimedia.org/wikipedia/commons/5/52/AppSheet_Logo.svg">
   <img height="60.2em" alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
   <img height="60.2em" alt="Processing" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Processing_Logo_Clipped.svg">
-  <img height="60.2em" alt="Rhinoceros" src="https://simpleicons.org/icons/rhinoceros.svg">
+  <img height="60.2em" alt="Rhinoceros" src="https://simpleicons.org/icons/rhinoceros.svg?&logoColor=white">
   <img height="60.2em" alt="VBA" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
 </p>
 
