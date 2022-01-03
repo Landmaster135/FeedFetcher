@@ -2,7 +2,7 @@
 
 ## Test
 ### Build Docker
-```bat
+```batch
 # DockerイメージをBuildする
 docker build -t my-nodejs-app .
 # Dockerイメージを起動する
