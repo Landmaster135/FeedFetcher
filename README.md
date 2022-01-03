@@ -60,6 +60,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://twitter.com/penguinbeer1351" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://qiita.com/Landmaster135" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=flat&logo=qiita&logoColor=white" /></a>
   <a href="https://zenn.dev/kinkinbeer135ml" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=flat&logo=Zenn&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UC95FIAkqzrjyVlg1uWdYzlw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%00FFFFFF.svg?style=flat&logo=YouTube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UC95FIAkqzrjyVlg1uWdYzlw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FFFFFFFF.svg?style=flat&logo=YouTube&logoColor=white" /></a>
 </p>
 
