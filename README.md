@@ -3,9 +3,13 @@
 Use after you create README.md file.
 
 # Install
+```dos
+
+```
 
 # Requirement
-Your README.md file must hold these sentences.
+Your README.md file must hold these sentences in order.
+
 ## 1. Start of feed list
 ```md
 <!--[START POSTS LIST]-->
