@@ -4,11 +4,11 @@ import fs from 'fs';
 const feedUrlZenn  = 'https://zenn.dev/kinkinbeer135ml/feed';
 const feedUrlQiita = 'https://qiita.com/Landmaster135/feed.atom';
 const number_of_display = 5;
+const sourceFileName    = 'README.md';
 let listOfLatestFeed = [];
 
 async function getPartOfDataList(number_of_display, fetchUrl){
     let res = await fetch(fetchUrl);
-    // let res = fetch(fetchUrl);
     let dataList = await res.json();
     let partOfDataList = [];
     let j = 0;
@@ -31,10 +31,9 @@ async function getLatestFeed(number_of_display, feedUrl, ...theOtherUrls){
     const endpoint = 'https://api.rss2json.com/v1/api.json';
     let forSortList   = [];
     let forConcatList = [];
+    let i = 0;
 
     forSortList = await getPartOfDataList(number_of_display, `${endpoint}?rss_url=${feedUrl}`);
-    console.log(forSortList);
-    let i = 0;
     while(i < theOtherUrls.length){
         forConcatList = await getPartOfDataList(number_of_display, `${endpoint}?rss_url=${theOtherUrls[i]}`);
         forSortList = await forSortList.concat(forConcatList);
@@ -48,6 +47,7 @@ async function getLatestFeed(number_of_display, feedUrl, ...theOtherUrls){
         return 1;
     });
     forSortList = forSortList.slice(0, number_of_display);
+
     return forSortList;
 }
 
@@ -62,8 +62,6 @@ function writeFeedToText(sourceLines, destFileName, listOfLatestFeed, feedUrlZen
     const separator       = '\n';
     const textOfStartPost = '<!--[START POSTS LIST]-->';
     const textOfEndPost   = '<!--[END POSTS LIST]-->';
-    // let rowOfStartPost;
-    // let rowOfEndPost;
     let isEnteringPostArea = false;
     let isPassedPostArea   = false;
     let k = 0;
@@ -75,7 +73,6 @@ function writeFeedToText(sourceLines, destFileName, listOfLatestFeed, feedUrlZen
 
     for(let i = 0; i < sourceLines.length; i++){
         if(sourceLines[i] == textOfEndPost){
-            // rowOfEndPost = Number(i);
             isPassedPostArea = true;
         }
         if(isEnteringPostArea ^ isPassedPostArea == 0){
@@ -92,52 +89,9 @@ function writeFeedToText(sourceLines, destFileName, listOfLatestFeed, feedUrlZen
             }
         }
         if(sourceLines[i] == textOfStartPost){
-            // rowOfStartPost = Number(i);
             isEnteringPostArea = true;
         }
-        // if(isEnteringPostArea == true){
-            
-        //     isPassedPostArea = true;
-
-        //     // if(k <= listOfLatestFeed.length - 1){
-        //     //     if(sourceLines[i] == textOfEndPost){
-        //     //         while(k){
-
-        //     //         }
-        //     //     }else{
-                    
-        //     //     }
-        //     // }else{
-        //     //     // nothing to do.
-        //     // }
-            
-        // }else{
-            
-        // }
-        
-        
-
-        
-        // if(isEnteringPostArea == true){
-        //     console.log(i + "    " + listOfLatestFeed[k]['link']);
-        //     console.log(i + "    " + feedUrlZenn.substring(0, numberOfInitial));
-            
-            
-        //     if(sourceLines[i] == textOfEndPost){
-        //         sourceLines.splice(i, 0, feed);
-        //     }else{
-        //         sourceLines[i] = feed;
-        //     }
-        // }
-        // if(sourceLines[i] == textOfStartPost){
-        //     // rowOfStartPost = Number(i);
-        //     isEnteringPostArea = true;
-        // }
     };
-
-    // if(rowOfEndPost - rowOfStartPost != number_of_display + 1){
-
-    // }
 
     fs.writeFileSync(destFileName, String(destLines.join(separator)));
 }
@@ -146,19 +100,11 @@ try {
     (async() => {
         listOfLatestFeed = await getLatestFeed(number_of_display, feedUrlZenn, feedUrlQiita);
         console.log(listOfLatestFeed);
-        let lines = getTextLines('README.md');
+        let lines = getTextLines(sourceFileName);
         console.log(lines);
-        writeFeedToText(lines, 'testtest.md', listOfLatestFeed, feedUrlZenn, feedUrlQiita);
+        writeFeedToText(lines, sourceFileName, listOfLatestFeed, feedUrlZenn, feedUrlQiita);
     })();
 } catch (error) {
     console.error(`Execute Step 1: ${error}`);
 }
-
-try {
-    
-} catch (error) {
-    console.error(`Execute Step 2: ${error}`);
-}
-
-
 
