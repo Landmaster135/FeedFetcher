@@ -46,9 +46,20 @@ You can click the Preview link to take a look at your changes.
 # Recent Posts
 
 <!--[START POSTS LIST]-->
-
-
-
-
-
+- ![](img/qiita.png) [【Node.js】バージョンが古くてfetchが使えんのお](https://qiita.com/Landmaster135/items/19e67db282f2e35d1197)
+- ![](img/zenn.png) [【Javascript】連想配列とかをディープコピーする前に](https://zenn.dev/kinkinbeer135ml/articles/79972f1e056887)
+- ![](img/zenn.png) [【Docker】ファイル実行できるNode.js環境を作る](https://zenn.dev/kinkinbeer135ml/articles/6369ee73dd1508)
+- ![](img/zenn.png) [Web上の画像をGoogleドライブに保存する](https://zenn.dev/kinkinbeer135ml/articles/44a5b20371482e)
+- ![](img/zenn.png) [【Javascript】Kindleの蔵書のタイトルだけを一覧で取得するツールを作りました](https://zenn.dev/kinkinbeer135ml/articles/1500f99b37aece)
 <!--[END POSTS LIST]-->
+
+# SNS
+
+<p>
+  <a href="https://github.com/Landmaster135" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
+  <a href="https://twitter.com/penguinbeer1351" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://qiita.com/Landmaster135" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=flat&logo=qiita&logoColor=white" /></a>
+  <a href="https://zenn.dev/kinkinbeer135ml" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=flat&logo=Zenn&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UC95FIAkqzrjyVlg1uWdYzlw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=YouTube&logoColor=white" /></a>
+</p>
+
