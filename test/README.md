@@ -23,4 +23,4 @@ docker cp <container ID>:/usr/app/testtest.md .
 
 ## writeFeedToText()
 
-![](test/memo_writeFeedToText.jpg)
+![](memo_writeFeedToText.jpg)
