@@ -6,7 +6,7 @@ case `uname` in
 esac
 
 if [ -x "$basedir/node" ]; then
-  exec "$basedir/node"  "$basedir/../cypress/bin/cypress" "$@"
+  exec "$basedir/node"  "$basedir/../index.js" "$@"
 else 
-  exec node  "$basedir/../cypress/bin/cypress" "$@"
+  exec node  "$basedir/../index.js" "$@"
 fi
