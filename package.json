@@ -24,9 +24,6 @@
         "node": ">=16.13.1",
         "npm": ">=8.3.0"
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Landmaster135/FeedFetcher.git"
-    },
+    "somepackage": "https://github.com/Landmaster135/FeedFetcher",
     "homepage": "https://github.com/Landmaster135/FeedFetcher"
 }
