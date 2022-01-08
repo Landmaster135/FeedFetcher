@@ -7,8 +7,22 @@
         "debug": "node index.js --config-yaml=configOfFeedFetcher.yml",
         "feed-fetcher:run": "npm run feed-fetcher run"
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Landmaster135/FeedFetcher.git"
-    }
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+        "commander": "^8.3.0",
+        "js-yaml": "^4.1.0",
+        "node-fetch": "^3.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.22.0",
+        "jest": "^24.9.0"
+    },
+    "engines": {
+        "node": ">=16.13.1",
+        "npm": ">=8.3.0"
+    },
+    "homepage": "https://github.com/Landmaster135/FeedFetcher"
 }
