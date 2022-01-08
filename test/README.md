@@ -27,6 +27,14 @@ docker ps
 docker cp <container ID>:/usr/app/testtest.md .
 ```
 
+## Test with Jast
+Put test file into `__test__` folder to test with Jset.
+Input this command to test with jest.
+
+```dosbatch
+npx jest
+```
+
 # Memo of index.mjs
 
 ## writeFeedToText()
