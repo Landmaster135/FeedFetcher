@@ -41,4 +41,5 @@ ADD README.md .
 
 # use git
 RUN apt install git-all -y
+RUN npm install https://github.com/Landmaster135/FeedFetcher
 # CMD npm run start
