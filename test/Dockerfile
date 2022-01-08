@@ -27,9 +27,9 @@ WORKDIR /usr/app
 COPY ./ /usr/app
 
 # module etc...
-RUN npm install node-fetch --save
-RUN npm install commander -save
-RUN npm install js-yaml --save
+# RUN npm install node-fetch --save
+# RUN npm install commander -save
+# RUN npm install js-yaml --save
 
 # not need "update-alternatives" if "n" package manager
 # RUN update-alternatives --install /usr/bin/node node /usr/bin/nodejs 10
@@ -38,4 +38,7 @@ RUN npm install js-yaml --save
 ADD package.json .
 ADD index.js .
 ADD README.md .
+
+# use git
+RUN apt install git-all -y
 # CMD npm run start
