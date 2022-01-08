@@ -13,11 +13,16 @@ docker run -it --rm --name my-running-app my-nodejs-app
 ```
 
 ## Test with Docker
-```dosbatch:Execute in the machine by docker.
+
+### Execute in the machine by docker.
+
+```dosbatch
 npm run start
 ```
 
-```dosbatch:Execute in the windows machine.
+### Execute in the windows machine.
+
+```dosbatch
 docker ps
 docker cp <container ID>:/usr/app/testtest.md .
 ```
