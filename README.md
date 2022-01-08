@@ -22,6 +22,8 @@ Your README.md file must hold these sentences in order.
 
 # Config
 
+Please set config with yaml. File name for config is `configOfFeedFetcher.yml` in default.
+
 ## Minimal configuration
 ```yaml
 displayLimit: 5
@@ -31,7 +33,9 @@ sourceMarkdownFileName: README.md
 ```
 
 ## Output
-```markdown
+
+Output is added between `<!--[START POSTS LIST]-->` and `<!--[END POSTS LIST]-->`. Please watch via raw file.
+
 <!--[START POSTS LIST]-->
 - ![](img/qiita.png) [【Node.js】バージョンが古くてfetchが使えんのお](https://qiita.com/Landmaster135/items/19e67db282f2e35d1197)
 - ![](img/zenn.png) [【Javascript】連想配列とかをディープコピーする前に](https://zenn.dev/kinkinbeer135ml/articles/79972f1e056887)
@@ -39,4 +43,5 @@ sourceMarkdownFileName: README.md
 - ![](img/zenn.png) [Web上の画像をGoogleドライブに保存する](https://zenn.dev/kinkinbeer135ml/articles/44a5b20371482e)
 - ![](img/zenn.png) [【Javascript】Kindleの蔵書のタイトルだけを一覧で取得するツールを作りました](https://zenn.dev/kinkinbeer135ml/articles/1500f99b37aece)
 <!--[END POSTS LIST]-->
-```
+
+
