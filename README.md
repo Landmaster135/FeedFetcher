@@ -4,7 +4,7 @@ Use after you create README.md file.
 
 # Install
 ```dos
-
+npm install https://github.com/Landmaster135/FeedFetcher
 ```
 
 # Requirement
@@ -19,3 +19,14 @@ Your README.md file must hold these sentences in order.
 ```markdown
 <!--[END POSTS LIST]-->
 ```
+
+# Config
+
+## Minimal configuration
+```yaml
+displayLimit: 5
+feedUrlZenn: https://zenn.dev/kinkinbeer135ml/feed
+feedUrlQiita: https://qiita.com/Landmaster135/feed.atom
+sourceMarkdownFileName: README.md
+```
+
