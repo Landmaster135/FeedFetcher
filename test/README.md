@@ -20,7 +20,7 @@ docker run -it --rm --name my-running-app my-nodejs-app
 npm run start
 ```
 
-### Execute in the windows machine.
+### Execute in the windows machine while the machine being booted by docker.
 
 ```dosbatch
 docker ps
