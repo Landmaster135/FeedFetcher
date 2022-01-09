@@ -1,4 +1,5 @@
 FROM ubuntu:latest
+
 # RUN apt-get update
 RUN apt update
 
@@ -6,8 +7,6 @@ RUN apt update
 RUN apt install -y curl
 
 # install old nodejs and npm
-# RUN apt-get install nodejs -y
-# RUN apt-get install npm -y
 RUN apt install nodejs -y
 RUN apt install npm -y
 
@@ -26,17 +25,10 @@ RUN npm update -g
 WORKDIR /usr/app
 COPY ./ /usr/app
 
-# module etc...
-# RUN npm install node-fetch --save
-# RUN npm install commander -save
-# RUN npm install js-yaml --save
-
 # not need "update-alternatives" if "n" package manager
 # RUN update-alternatives --install /usr/bin/node node /usr/bin/nodejs 10
 
 # to get files from local
-ADD package.json .
-ADD index.js .
 ADD README.md .
 
 # use git
