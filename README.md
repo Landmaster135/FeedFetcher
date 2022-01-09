@@ -3,8 +3,13 @@
 Use after you create README.md file.
 
 # Install
-```dos
+```shell
 npm install https://github.com/Landmaster135/FeedFetcher
+```
+
+# Run
+```shell
+./node_modules/feed-fetcher/bin/run --config-yaml=configOfFeedFetcher.yml
 ```
 
 # Requirement
