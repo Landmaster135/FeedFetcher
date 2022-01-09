@@ -4,7 +4,7 @@ Use after you create README.md file.
 
 # Install
 ```shell
-npm install https://github.com/Landmaster135/FeedFetcher
+npm install https://github.com/Landmaster135/feed-fetcher
 ```
 
 # Run
