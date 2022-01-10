@@ -2,7 +2,7 @@
 
 ## writeFeedToText()
 
-![writeFeedToText]()
+![writeFeedToText](memo_writeFeed.jpg)
 
 # Icons
 
