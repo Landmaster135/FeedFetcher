@@ -8,8 +8,8 @@
 
 ## Zenn icon
 
-![ZennIcon]()
+![ZennIcon](zenn.png)
 
 ## Qiita icon
-![QiitaIcon]()
+![QiitaIcon](qiita.png)
 
