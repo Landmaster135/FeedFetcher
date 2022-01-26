@@ -1,5 +1,13 @@
 displayLimit: 5
-feedUrlZenn: https://zenn.dev/kinkinbeer135ml/feed
-feedUrlQiita: https://qiita.com/Landmaster135/feed.atom
-feedUrlWordpress: https://www.endorphinbath.com/feed
+feedUrlArray:
+  - https://zenn.dev/kinkinbeer135ml/feed
+  - https://qiita.com/Landmaster135/feed.atom
+  - https://www.endorphinbath.com/feed
+imgFileNameArray:
+  - img/zenn.png
+  - img/qiita.png
+  - img/endorphinbath.png
 sourceMarkdownFileName: README.md
+postArea:
+  start: <!--[START POSTS LIST]-->
+  end: <!--[END POSTS LIST]-->
