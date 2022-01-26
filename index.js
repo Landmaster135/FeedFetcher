@@ -119,7 +119,8 @@ try {
         const number_of_display = configByYaml.displayLimit;
         const feedUrlZenn       = configByYaml.feedUrlZenn;
         const feedUrlQiita      = configByYaml.feedUrlQiita;
-        let   listOfLatestFeed  = await getLatestFeed(number_of_display, feedUrlZenn, feedUrlQiita);
+        const feedUrlWordpress  = configByYaml.feedUrlWordpress;
+        let   listOfLatestFeed  = await getLatestFeed(number_of_display, feedUrlZenn, feedUrlQiita, feedUrlWordpress);
         console.log(listOfLatestFeed);
 
         const sourceMdFileName = configByYaml.sourceMarkdownFileName;
