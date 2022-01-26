@@ -12,19 +12,6 @@ npm install https://github.com/Landmaster135/feed-fetcher
 ./node_modules/feed-fetcher/bin/run --config-yaml=configOfFeedFetcher.yml
 ```
 
-# Requirement
-Your README.md file must hold these sentences in order.
-
-## 1. Start of feed list
-```markdown
-<!--[START POSTS LIST]-->
-```
-
-## 2. End of feed list
-```markdown
-<!--[END POSTS LIST]-->
-```
-
 # Config
 
 Please set config with yaml. File name for config is `configOfFeedFetcher.yml` in default.
@@ -32,14 +19,21 @@ Please set config with yaml. File name for config is `configOfFeedFetcher.yml` i
 ## Minimal configuration
 ```yaml
 displayLimit: 5
-feedUrlZenn: https://zenn.dev/kinkinbeer135ml/feed
-feedUrlQiita: https://qiita.com/Landmaster135/feed.atom
+feedUrlArray:
+  - https://zenn.dev/kinkinbeer135ml/feed
+  - https://qiita.com/Landmaster135/feed.atom
+imgFileNameArray:
+  - img/zenn.png
+  - img/qiita.png
 sourceMarkdownFileName: README.md
+postArea:
+  start: <!--[START POSTS LIST]-->
+  end: <!--[END POSTS LIST]-->
 ```
 
 ## Output
 
-Output is added between `<!--[START POSTS LIST]-->` and `<!--[END POSTS LIST]-->`.
+Output is added between postArea.start and postArea.end .
 
 ### Raw
 
