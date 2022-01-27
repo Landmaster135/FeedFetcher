@@ -26,47 +26,25 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 # Tools
+<p align="left">
 <!--[START IMAGE LIST]-->
-
-  <img height="20.2em" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-  <img height="20.2em" alt="Google Apps Script" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg">
-  <img height="20.2em" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img height="20.2em" alt="AppSheet" src="https://upload.wikimedia.org/wikipedia/commons/5/52/AppSheet_Logo.svg">
-  <img height="20.2em" alt="GitHub" src="img/Tools/github.png">
-  <img height="20.2em" alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
-  <img height="20.2em" alt="Processing" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Processing_Logo_Clipped.svg">
-  <img height="20.2em" alt="Sqlite" src="img/Tools/sqlite.png">
-  <img height="20.2em" alt="Rhinoceros" src="img/Tools/rhinoceros.png">
-  <img height="20.2em" alt="Grasshopper" src="img/Tools/grasshopper.jpg">
-  <img height="20.2em" alt="Visual Studio Code" src="img/Tools/vscode.png">
-  <img height="20.2em" alt="npm" src="img/Tools/npm.svg">
-  <img height="20.2em" alt="Docker" src="img/Tools/docker.png">
-  <img height="20.2em" alt="HTML" src="img/Tools/html.png">
-  <img height="20.2em" alt="CSS" src="img/Tools/css.png">
-  <img height="20.2em" alt="JavaScript" src="img/Tools/javascript.png">
-  <img height="20.2em" alt="Google Chrome" src="img/Tools/chrome.png">
-  <img height="20.2em" alt="Microsoft Edge" src="img/Tools/edge.png">
-  <img height="20.2em" alt="VBA" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
-  <img height="20.2em" alt="Bash" src="img/Tools/bash.png">
-  <img height="20.2em" alt="MacOS" src="img/Tools/macos.png">
-  <img height="20.2em" alt="Windows" src="img/Tools/windows.png">
-  <img height="20.2em" alt="Windows" src="img/Tools/windows.png">
+  <img height="30.2em" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+  <img height="30.2em" alt="Google Apps Script" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg">
+  <img height="30.2em" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+  <img height="30.2em" alt="AppSheet" src="https://upload.wikimedia.org/wikipedia/commons/5/52/AppSheet_Logo.svg">
+  <img height="30.2em" alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+  <img height="30.2em" alt="Processing" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Processing_Logo_Clipped.svg">
+  <img height="30.2em" alt="VBA" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
 <!--[END IMAGE LIST]-->
+</p>
+
 
 # Sub Tools
+<p align="left">
 <!--[START IMAGE LIST]-->
-  <img height="20.2em" alt="Windows" src="img/Tools/windows.png">
-  <img height="20.2em" alt="Illustrator" src="img/subTools/adobeIllustrator.png">
-  <img height="20.2em" alt="Photoshop" src="img/subTools/adobePhotoshop.png">
-  <img height="20.2em" alt="InDesign" src="img/subTools/adobeIndesign.png">
-  <img height="20.2em" alt="Premiere Pro" src="img/subTools/adobePremierepro.png">
-  <img height="20.2em" alt="Davinci Resolve" src="img/subTools/davinciResolve.png">
-  <img height="20.2em" alt="Salesforce" src="img/subTools/salesforce.png">
-  <img height="20.2em" alt="OutSystems" src="img/subTools/outsystems.png">
-  <img height="20.2em" alt="Google Spreadsheet" src="img/subTools/gss.png">
-  <img height="20.2em" alt="Excel" src="img/subTools/excel.png">
-  <img height="20.2em" alt="Excel" src="img/subTools/excel.png">
+  <img height="30.2em" alt="Windows" src="img/Tools/windows.png">
 <!--[END IMAGE LIST]-->
+</p>
 
 # Recent Posts
 
