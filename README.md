@@ -9,7 +9,7 @@ npm install https://github.com/Landmaster135/feed-fetcher
 
 # Run
 ```shell
-./node_modules/feed-fetcher/bin/run --config-yaml=configOfFeedFetcher.yml
+./node_modules/feed-fetcher/bin/run --config-yaml=../../configOfFeedFetcher.yml
 ```
 
 # Config
