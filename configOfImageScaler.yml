@@ -1,0 +1,5 @@
+imageSizeEmAfter: 20.2
+sourceMarkdownFileName: README.md
+imageArea:
+  start: <!--[START IMAGE LIST]-->
+  end: <!--[END IMAGE LIST]-->
