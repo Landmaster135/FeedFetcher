@@ -1,3 +1,5 @@
 Dockerfile
+.dockerignore
 configOfFeedFetcher.yml
 README.md
+.DS_Store

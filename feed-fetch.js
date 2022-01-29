@@ -21,7 +21,7 @@ try {
     const number_of_display = configByYaml.displayLimit;
     const feedUrlArray     = configByYaml.feedUrlArray;
     const imgFileNameArray = configByYaml.imgFileNameArray;
-    let   listOfLatestFeed = await methods.getLatestFeed(number_of_display, feedUrlArray);
+    let   listOfLatestFeed = await methods.getLatestFeed(number_of_display, feedUrlArray, imgFileNameArray);
     console.log(listOfLatestFeed);
 
     const sourceMdFileName = configByYaml.sourceMarkdownFileName;
