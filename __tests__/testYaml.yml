@@ -1,0 +1,12 @@
+testNumber: 100
+testString: README.md
+testArrayNumber:
+  - 1
+  - 3
+testArrayString:
+  - One
+  - three
+  - five
+testObject:
+  ichi: ichiichi
+  ni: nini

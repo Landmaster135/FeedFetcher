@@ -1,14 +1,14 @@
-import path from 'path';
-import url from 'url';
+import path from "path";
+import url from "url";
 
-import { Command } from 'commander';
+import { Command } from "commander";
 
-import * as methods from './lib/lib-methods.js';
+import * as methods from "./lib/lib-methods.js";
 
 try {
   (async() => {
     const commander = new Command();
-    commander.option('-c, --config-yaml <type>', 'file name for config with yaml').parse(process.argv);
+    commander.option("-c, --config-yaml <type>", "file name for config with yaml").parse(process.argv);
     console.log(commander);
 
     const yamlFileName = String(commander._optionValues.configYaml);
@@ -25,8 +25,7 @@ try {
     console.log(listOfLatestFeed);
 
     const sourceMdFileName = configByYaml.sourceMarkdownFileName;
-    const lines = methods.getTextLines(sourceMdFileName);
-    console.log(lines);
+    const lines = methods.getTextLines(path.join(__dirname, sourceMdFileName));
 
     const postArea = configByYaml.postArea;
     methods.writeFeedToText(lines, sourceMdFileName, postArea, listOfLatestFeed, feedUrlArray, imgFileNameArray);

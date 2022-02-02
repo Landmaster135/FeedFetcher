@@ -1,15 +1,15 @@
 
-import path from 'path';
-import url from 'url';
+import path from "path";
+import url from "url";
 
-import { Command } from 'commander';
+import { Command } from "commander";
 
-import * as methods from './lib/lib-methods.js';
+import * as methods from "./lib/lib-methods.js";
 
 try {
   (async() => {
     const commander = new Command();
-    commander.option('-c, --config-yaml <type>', 'file name for config with yaml').parse(process.argv);
+    commander.option("-c, --config-yaml <type>", "file name for config with yaml").parse(process.argv);
     console.log(commander);
 
     const yamlFileName = String(commander._optionValues.configYaml);
