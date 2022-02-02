@@ -1,6 +1,3 @@
-// const methods = require("./../lib/lib-methods.js");
-// import * as methods from "../lib/lib-methods";
-
 import path from "path";
 import url from "url";
 import fs from "fs";
