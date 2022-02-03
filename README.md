@@ -1,4 +1,4 @@
-# Landmaster135
+## Landmaster135
 
 <!-- - 👋 Hi, I’m @Landmaster135
 - 👀 I’m interested in ...
@@ -25,30 +25,57 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-# Tools
+## Tools
 <p align="left">
 <!--[START IMAGE LIST]-->
   <img height="30.2em" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
   <img height="30.2em" alt="Google Apps Script" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg">
   <img height="30.2em" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img height="30.2em" alt="AppSheet" src="https://upload.wikimedia.org/wikipedia/commons/5/52/AppSheet_Logo.svg">
+  <img height="30.2em" alt="GitHub" src="img/Tools/github.png">
   <img height="30.2em" alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
   <img height="30.2em" alt="Processing" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Processing_Logo_Clipped.svg">
+  <img height="30.2em" alt="Sqlite" src="img/Tools/sqlite.png">
+  <img height="30.2em" alt="Rhinoceros" src="img/Tools/rhinoceros.png">
+  <img height="30.2em" alt="Grasshopper" src="img/Tools/grasshopper.jpg">
+  <img height="30.2em" alt="Visual Studio Code" src="img/Tools/vscode.png">
+  <img height="30.2em" alt="npm" src="img/Tools/npm.svg">
+  <img height="30.2em" alt="Docker" src="img/Tools/docker.png">
+  <img height="30.2em" alt="HTML" src="img/Tools/html.png">
+  <img height="30.2em" alt="CSS" src="img/Tools/css.png">
+  <img height="30.2em" alt="JavaScript" src="img/Tools/javascript.png">
+  <img height="30.2em" alt="Google Chrome" src="img/Tools/chrome.png">
+  <img height="30.2em" alt="Microsoft Edge" src="img/Tools/edge.png">
   <img height="30.2em" alt="VBA" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
-<!--[END IMAGE LIST]-->
-</p>
-
-
-# Sub Tools
-<p align="left">
-<!--[START IMAGE LIST]-->
+  <img height="30.2em" alt="Bash" src="img/Tools/bash.png">
+  <img height="30.2em" alt="MacOS" src="img/Tools/macos.png">
   <img height="30.2em" alt="Windows" src="img/Tools/windows.png">
 <!--[END IMAGE LIST]-->
 </p>
 
-# Recent Posts
+## Sub Tools
+<p align="left">
+<!--[START IMAGE LIST]-->
+  <img height="30.2em" alt="Illustrator" src="img/subTools/adobeIllustrator.png">
+  <img height="30.2em" alt="Photoshop" src="img/subTools/adobePhotoshop.png">
+  <img height="30.2em" alt="InDesign" src="img/subTools/adobeIndesign.png">
+  <img height="30.2em" alt="Premiere Pro" src="img/subTools/adobePremierepro.png">
+  <img height="30.2em" alt="Davinci Resolve" src="img/subTools/davinciResolve.png">
+  <img height="30.2em" alt="Salesforce" src="img/subTools/salesforce.png">
+  <img height="30.2em" alt="OutSystems" src="img/subTools/outsystems.png">
+  <img height="30.2em" alt="Google Spreadsheet" src="img/subTools/gss.png">
+  <img height="30.2em" alt="Excel" src="img/subTools/excel.png">
+  <img height="30.2em" alt="Midas iGen" src="img/subTools/midasigen.png">
+  <img height="30.2em" alt="Selenium" src="img/subTools/selenium.png">
+  <img height="30.2em" alt="Jest" src="img/subTools/jest.png">
+<!--[END IMAGE LIST]-->
+</p>
+
+## Recent Posts
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Node.js】Markdown内のimgタグの画像の大きさを変える。](https://www.endorphinbath.com/nodejs-markdown-scale-image/)
+- ![](img/endorphinbath.png) [【Node.js】GitHub ActionsでREADME.mdに投稿した記事のリンクを表示する（FirebaseでCORS対応）](https://www.endorphinbath.com/nodejs-readme-display-feed/)
 - ![](img/endorphinbath.png) [【Node.js】Seleniumでテスト自動化ツール用ライブラリを作った](https://www.endorphinbath.com/nodejs-selenium-auto-test-library/)
 - ![](img/zenn.png) [【Markdown】Mermaid.jsで使えない？文字](https://zenn.dev/kinkinbeer135ml/articles/f08ce790091aca)
 - ![](img/endorphinbath.png) [【GAS、Google Spreadsheet】Google Driveに共有したWebサイトのURLをGoogleスプシに転記する。](https://www.endorphinbath.com/gas-webclip-to-gss/)
@@ -62,11 +89,9 @@ You can click the Preview link to take a look at your changes.
 - ![](img/qiita.png) [Githubにある自作のnpmモジュールをnpm installしてENOENTなエラーが出た時](https://qiita.com/Landmaster135/items/2cff3d8673a07cb4ea93)
 - ![](img/qiita.png) [【Node.js】Windows環境におけるCypressのIntegrationフォルダーの場所](https://qiita.com/Landmaster135/items/e8ebf5bda349f731cf1e)
 - ![](img/note.png) [内軟骨種とかいう病気で右手の人差し指を手術した時の話](https://note.com/kinkinbeer135ml/n/ndd6b64e0f3f4)
-- ![](img/qiita.png) [【Node.js】バージョンが古くてfetchが使えんのお](https://qiita.com/Landmaster135/items/19e67db282f2e35d1197)
-- ![](img/zenn.png) [【Javascript】オブジェクト（連想配列じゃない）とかをディープコピーする前に](https://zenn.dev/kinkinbeer135ml/articles/79972f1e056887)
 <!--[END POSTS LIST]-->
 
-# Blog, SNS
+## Blog, SNS
 
 <p>
   <a href="https://www.endorphinbath.com" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B.svg?&style=flat&logo=Wordpress&logoColor=white" /></a>
