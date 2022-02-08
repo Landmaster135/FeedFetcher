@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
   <img height="30.2em" alt="Visual Studio Code" src="img/Tools/vscode.png">
   <img height="30.2em" alt="npm" src="img/Tools/npm.svg">
   <img height="30.2em" alt="Docker" src="img/Tools/docker.png">
+  <img height="30.2em" alt="Firebase" src="img/Tools/firebase.png">
   <img height="30.2em" alt="HTML" src="img/Tools/html.png">
   <img height="30.2em" alt="CSS" src="img/Tools/css.png">
   <img height="30.2em" alt="JavaScript" src="img/Tools/javascript.png">
