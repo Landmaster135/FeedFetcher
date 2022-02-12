@@ -9,7 +9,8 @@ Landmaster135/Landmaster135 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<link href="style/main.css" rel="stylesheet"></link>
+<!-- No stylesheet execept github-markdown-css is readable in GitHub -->
+<!-- <link href="style/main.css" rel="stylesheet"></link> -->
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -72,6 +73,21 @@ You can click the Preview link to take a look at your changes.
 <!--[END IMAGE LIST]-->
 </p>
 
+<!-- DECORATION IMAGE -->
+<div>
+<!--[START DECOIMAGE LIST]-->
+  <figure style="float:left;">
+    <img width="28%" alt="Dragon" src="img/Decoration/dragon_01.png">
+  </figure>
+  <figure style="float:left;">
+    <img width="27%" alt="Leviathan" src="img/Decoration/leviathan_02.png">
+  </figure>
+  <figure style="float:left;">
+    <img width="42%" alt="Wyvern" src="img/Decoration/dragon_05.png">
+  </figure>
+<!--[END DECOIMAGE LIST]-->
+</div>
+
 ## Recent Posts
 
 <!--[START POSTS LIST]-->
@@ -105,18 +121,27 @@ You can click the Preview link to take a look at your changes.
   <a href="https://speakerdeck.com/kinkinbeer135ml" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-009287.svg?style=flat&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
+<!-- DECORATION IMAGE -->
+<div style="position:relative;">
+<!--[START DECOIMAGE LIST]-->
+<!--   <p style="text-align:justify;">
+    <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png" style="display:inline;">
+    <a width="5%">　</a>
+    <img width="45%" alt="Zinogre" src="img/Decoration/mh_07.png" style="display:inline;">
+  </p> -->
+  <figure style="float:left;">
+    <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png">
+  </figure>
+  <figure style="float:left;">
+    <img width="12%" alt="void" src="img/Decoration/void_01.png">
+  </figure>
+  <figure style="float:left;">
+    <img width="45%" alt="Zinogre" src="img/Decoration/mh_07.png">
+  </figure>
+<!--[END DECOIMAGE LIST]-->
+</div>
+
 <p align="left">
   <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
 
-<div>
-<table>
-<!--[START DECOIMAGE LIST]-->
-  <tr>
-    <td width="29%"><img class="decoimage" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
-    <td width="28%"><img class="decoimage" alt="Leviathan" src="img/Decoration/leviathan_02.png"></td>
-    <td ><img class="decoimage" alt="Wyvern" src="img/Decoration/dragon_05.png"></td>
-  </tr>
-<!--[END DECOIMAGE LIST]-->
-</table>
-</div>
