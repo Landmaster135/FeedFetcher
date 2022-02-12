@@ -9,6 +9,8 @@ Landmaster135/Landmaster135 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+<link href="style/main.css" rel="stylesheet"></link>
+
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150.2em" alt="Landmaster135's GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=Landmaster135&theme=tokyonight&show_icons=true" />
@@ -107,10 +109,14 @@ You can click the Preview link to take a look at your changes.
   <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
 
-<p align="left">
+<div>
+<table>
 <!--[START DECOIMAGE LIST]-->
-  <img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png">
-  <img height="390.2em" alt="Leviathan" src="img/Decoration/leviathan_02.png">
-  <img height="390.2em" alt="Wyvern" src="img/Decoration/dragon_05.png">
+  <tr>
+    <td width="29%"><img class="decoimage" alt="Dragon" src="img/Decoration/dragon_01.png"></td>
+    <td width="28%"><img class="decoimage" alt="Leviathan" src="img/Decoration/leviathan_02.png"></td>
+    <td ><img class="decoimage" alt="Wyvern" src="img/Decoration/dragon_05.png"></td>
+  </tr>
 <!--[END DECOIMAGE LIST]-->
-</p>
+</table>
+</div>
