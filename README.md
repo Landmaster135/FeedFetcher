@@ -124,11 +124,6 @@ You can click the Preview link to take a look at your changes.
 <!-- DECORATION IMAGE -->
 <div style="position:relative;">
 <!--[START DECOIMAGE LIST]-->
-<!--   <p style="text-align:justify;">
-    <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png" style="display:inline;">
-    <a width="5%">　</a>
-    <img width="45%" alt="Zinogre" src="img/Decoration/mh_07.png" style="display:inline;">
-  </p> -->
   <figure style="float:left;">
     <img width="40%" alt="Lunastra" src="img/Decoration/mh_09.png">
   </figure>
@@ -141,7 +136,14 @@ You can click the Preview link to take a look at your changes.
 <!--[END DECOIMAGE LIST]-->
 </div>
 
+<!-- Metrics -->
 <p align="left">
   <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
 </p>
 
+<!-- DECORATION IMAGE -->
+<!--[START DECOIMAGE LIST]-->
+<figure style="float:none;">
+  <img width="100%" alt="wave" src="img/Decoration/wave_02.png">
+</figure>
+<!--[END DECOIMAGE LIST]-->
