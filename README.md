@@ -73,6 +73,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Posts
 
 <!--[START POSTS LIST]-->
+- ![](img/endorphinbath.png) [【Markdown】Mermaid.jsのコードを変えて描画の変化を観察してみた](https://www.endorphinbath.com/mermaid-drawing-variation-by-code/)
 - ![](img/endorphinbath.png) [【Node.js】Markdown内のimgタグの画像の大きさを変える。](https://www.endorphinbath.com/nodejs-markdown-scale-image/)
 - ![](img/endorphinbath.png) [【Node.js】GitHub ActionsでREADME.mdに投稿した記事のリンクを表示する（FirebaseでCORS対応）](https://www.endorphinbath.com/nodejs-readme-display-feed/)
 - ![](img/endorphinbath.png) [【Node.js】Seleniumでテスト自動化ツール用ライブラリを作った](https://www.endorphinbath.com/nodejs-selenium-auto-test-library/)
@@ -87,7 +88,6 @@ You can click the Preview link to take a look at your changes.
 - ![](img/qiita.png) [Github Actionsで別のリポジトリにSSH接続するための手順](https://qiita.com/Landmaster135/items/f426b499411fbd8dbe90)
 - ![](img/qiita.png) [Githubにある自作のnpmモジュールをnpm installしてENOENTなエラーが出た時](https://qiita.com/Landmaster135/items/2cff3d8673a07cb4ea93)
 - ![](img/qiita.png) [【Node.js】Windows環境におけるCypressのIntegrationフォルダーの場所](https://qiita.com/Landmaster135/items/e8ebf5bda349f731cf1e)
-- ![](img/note.png) [内軟骨種とかいう病気で右手の人差し指を手術した時の話](https://note.com/kinkinbeer135ml/n/ndd6b64e0f3f4)
 <!--[END POSTS LIST]-->
 
 ## Blog, SNS
@@ -103,4 +103,14 @@ You can click the Preview link to take a look at your changes.
   <a href="https://speakerdeck.com/kinkinbeer135ml" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-009287.svg?style=flat&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
-[<img align="left" alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">]()
+<p align="left">
+  <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
+</p>
+
+<p align="left">
+<!--[START DECOIMAGE LIST]-->
+  <img height="390.2em" alt="Dragon" src="img/Decoration/dragon_01.png">
+  <img height="390.2em" alt="Leviathan" src="img/Decoration/leviathan_02.png">
+  <img height="390.2em" alt="Wyvern" src="img/Decoration/dragon_05.png">
+<!--[END DECOIMAGE LIST]-->
+</p>
