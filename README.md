@@ -111,14 +111,33 @@ You can click the Preview link to take a look at your changes.
 ## Blog, SNS
 
 <p>
-  <a href="https://www.endorphinbath.com" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B.svg?&style=flat&logo=Wordpress&logoColor=white" /></a>
-  <a href="https://github.com/Landmaster135" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/penguinbeer1351" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://qiita.com/Landmaster135" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=flat&logo=qiita&logoColor=white" /></a>
-  <a href="https://zenn.dev/kinkinbeer135ml" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=flat&logo=Zenn&logoColor=white" /></a>
-  <a href="https://note.com/kinkinbeer135ml" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-41C9B4.svg?&style=flat&logo=note&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UC95FIAkqzrjyVlg1uWdYzlw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=YouTube&logoColor=white" /></a>
-  <a href="https://speakerdeck.com/kinkinbeer135ml" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-009287.svg?style=flat&logo=SpeakerDeck&logoColor=white" /></a>
+  <a href="https://gpvc.arturio.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://gpvc.arturio.dev/Landmaster135" alt="profile views" />
+  </a>
+  <a href="https://www.endorphinbath.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B.svg?&style=flat&logo=Wordpress&logoColor=white" />
+  </a>
+  <a href="https://github.com/Landmaster135" target="_blank" rel="noopener noreferrer">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/penguinbeer1351" target="_blank" rel="noopener noreferrer">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://qiita.com/Landmaster135" target="_blank" rel="noopener noreferrer">
+    <img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=flat&logo=qiita&logoColor=white" />
+  </a>
+  <a href="https://zenn.dev/kinkinbeer135ml" target="_blank" rel="noopener noreferrer">
+    <img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=flat&logo=Zenn&logoColor=white" />
+  </a>
+  <a href="https://note.com/kinkinbeer135ml" target="_blank" rel="noopener noreferrer">
+    <img alt="note" src="https://img.shields.io/badge/note-41C9B4.svg?&style=flat&logo=note&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC95FIAkqzrjyVlg1uWdYzlw" target="_blank" rel="noopener noreferrer">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=YouTube&logoColor=white" />
+  </a>
+  <a href="https://speakerdeck.com/kinkinbeer135ml" target="_blank" rel="noopener noreferrer">
+    <img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-009287.svg?style=flat&logo=SpeakerDeck&logoColor=white" />
+  </a>
 </p>
 
 <!-- DECORATION IMAGE -->
