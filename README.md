@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
 <!--[END DECOIMAGE LIST]-->
 </div>
 
-## Recent Posts
+## Recent Posts🐧
 
 <!--[START POSTS LIST]-->
 - ![](img/endorphinbath.png) [【Markdown】Mermaid.jsのコードを変えて描画の変化を観察してみた](https://www.endorphinbath.com/mermaid-drawing-variation-by-code/)
@@ -108,7 +108,7 @@ You can click the Preview link to take a look at your changes.
 - ![](img/qiita.png) [【Node.js】Windows環境におけるCypressのIntegrationフォルダーの場所](https://qiita.com/Landmaster135/items/e8ebf5bda349f731cf1e)
 <!--[END POSTS LIST]-->
 
-## Blog, SNS
+## Blog, SNS🍺
 
 <p>
   <a href="https://gpvc.arturio.dev" target="_blank" rel="noopener noreferrer">
