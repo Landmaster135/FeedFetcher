@@ -157,8 +157,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Metrics -->
 <p align="left">
-  <img alt="🐧" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
-  <img alt="🍺" src="https://github.com/landmaster135/landmaster135/blob/main/github-metrics-anilist.svg">
+  <img alt="🐧" width="42%" src="https://github.com/Landmaster135/Landmaster135/blob/main/github-metrics.svg">
+  <img alt="🍺" width="42%" src="https://github.com/landmaster135/landmaster135/blob/main/github-metrics-anilist.svg">
 </p>
 
 <!-- DECORATION IMAGE -->
