@@ -70,6 +70,8 @@ You can click the Preview link to take a look at your changes.
   <img height="30.2em" alt="Midas iGen" src="img/subTools/midasigen.png">
   <img height="30.2em" alt="Selenium" src="img/subTools/selenium.png">
   <img height="30.2em" alt="Jest" src="img/subTools/jest.png">
+  <img height="30.2em" alt="Clip Studio" src="img/subTools/clipStudio.png">
+  <img height="30.2em" alt="Unreal Engine" src="img/subTools/unrealEngine.png">
 <!--[END IMAGE LIST]-->
 </p>
 
