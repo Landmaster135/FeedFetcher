@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 <!-- No stylesheet execept github-markdown-css is readable in GitHub -->
 <!-- <link href="style/main.css" rel="stylesheet"></link> -->
 
+<img width="40%" alt="kinkinbeer135ml" src="img/Decoration/beer.jpg">
+
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150.2em" alt="Landmaster135's GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=Landmaster135&theme=tokyonight&show_icons=true" />
